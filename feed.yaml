@@ -38,3 +38,15 @@ item:
     file: /audio/TFIT05.mp3
     duration: 00:00:22
     length: 352,587
+  - title: EP06-Exploring Cloud-Native Technologies
+    description: John Doe explains how cloud-native architectures are transforming modern systems with dynamic scalability and performance.
+    published: Thu, 16 Feb 2023 18:00:00 GMT
+    file: /audio/TFIT06.mp3
+    duration: 00:00:25
+    length: 400,000
+  - title: EP07-Revolutionizing Cybersecurity with AI
+    description: Jane Smith delves into how artificial intelligence is reshaping cybersecurity strategies and offering innovative solutions to counter evolving threats.
+    published: Thu, 23 Feb 2023 18:00:00 GMT
+    file: /audio/TFIT07.mp3
+    duration: 00:00:28
+    length: 450,000
